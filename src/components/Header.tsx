@@ -7,7 +7,7 @@ const Header: React.FC = () => {
         <div className="bg-indigo-500 text-white w-8 h-8 flex items-center justify-center rounded-full font-bold">
           T
         </div>
-        <h1 className="text-xl font-semibold">TodoFlow</h1>
+        <h1 className="text-xl font-semibold">Todoflow</h1>
       </div>
       <div className="flex items-center gap-4">
         <button className="bg-black text-white px-4 py-2 rounded-lg hover:bg-gray-800">
